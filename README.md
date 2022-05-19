@@ -7,7 +7,7 @@
   ##
 
 - [x] Criando uma página de seleção de personagens com os personagens do desenho.
-- [x] Projeto MapaDevWeek
+
 
 ##
 
