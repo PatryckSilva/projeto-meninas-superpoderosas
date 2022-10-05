@@ -1,7 +1,7 @@
 # Projeto - As meninas superpoderosas
 
   <h4>
-    Tela de seleção de personagem com os personagens do desenho "As meninas superpoderosas", criado com o auxílio do evento MapaDev Week
+    Tela de seleção de personagem com os personagens do desenho "As meninas superpoderosas"
   </h4> 
   
   ##
