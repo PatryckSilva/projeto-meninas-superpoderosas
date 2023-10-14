@@ -12,7 +12,7 @@ https://patrycksilva.github.io/projeto-meninas-superpoderosas/
 ##
 
 
-<img src="https://cdn.discordapp.com/attachments/807137496873566231/975913992197394442/unknown.png"/>
+<img src="./print.png"/>
 
 
 
