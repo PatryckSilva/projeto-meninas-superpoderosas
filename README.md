@@ -6,8 +6,8 @@
   
   ##
 
-- [x] Criando uma página de seleção de personagens com os personagens do desenho.
-
+Criando uma página de seleção de personagens com os personagens do desenho.
+https://patrycksilva.github.io/projeto-meninas-superpoderosas/
 
 ##
 
